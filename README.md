@@ -5,7 +5,7 @@
 
 <p align="center">🔕 Sneh IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
-<p align="center">🔕 BIG NOTICE :  🔕 <BR> I'M OFFLINE ONLY FOR THIS MONTH NEXT UPDATE FROM NEXT MONTH . <BR> BE PATIENCE 🥰. NEW SURPRISE 🤹‍♂️ IN DECEMBER .</p><br>
+<!-- <p align="center">🔕 BIG NOTICE :  🔕 <BR> I'M OFFLINE ONLY FOR THIS MONTH NEXT UPDATE FROM NEXT MONTH . <BR> BE PATIENCE 🥰. NEW SURPRISE 🤹‍♂️ IN DECEMBER .</p><br> -->
 
 <h2>🤹‍♂️ Join Our Discord Server :</h2>
 - Join Now : https://snehtv.tk/sneh-discord  <br>
