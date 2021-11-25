@@ -1,18 +1,18 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sneh ZEE5 News",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-258
+https://sneh-z5api.herokuapp.com/?c0-9-258
 #EXTINF:-1 group-title="Sneh ZEE5 News",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-410/channel_web/1170x658_739766421.png",CVR News Telugu
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetelugu
+https://sneh-z5api.herokuapp.com/?c0-9-zeetelugu
 #EXTINF:-1 group-title="Sneh ZEE5 News",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-258
+https://sneh-z5api.herokuapp.com/?c0-9-258
 #EXTINF:-1 group-title="Sneh ZEE5 Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetelugu
+https://sneh-z5api.herokuapp.com/?c0-9-zeetelugu
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinemalu
+https://sneh-z5api.herokuapp.com/?c0-9-zeecinemalu
 #EXTINF:-1 group-title="Sneh ZEE5 Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/1170x658withlogo_719952414.png",ABN Andhra Jyothy
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-355
+https://sneh-z5api.herokuapp.com/?c0-9-355
 
 #EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sneh SunNXT",Sun TV HD
 http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
@@ -100,205 +100,4 @@ https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 #EXTINF:-1 group-title="Sneh MX Telugu News",tvg-logo="https://j2apps.s.llnwi.net/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg",Mahaa TV
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
-
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- ETV CINEMA
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40854
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- ETV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40855
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- GEMINI HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40856
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- HISTORY 18 TELUGU HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40858
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- JAYA MAX
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40859
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- MAA MOVIES HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40860
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- SONY BBC EARTH HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40864
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- STAR MAA HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40866
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- TATA SKY TELUGU CINEMA HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40867
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- ZEE TELUGU HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40873
-#EXTINF:-1 group-title="Sneh TELUGU (HD)",- DD SAPTAGIRI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40874
-#EXTINF:-1 group-title="Sneh |South India|", 7SMUSIC
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
-#EXTINF:-1 group-title="Sneh |South India|", 10tv
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86086
-#EXTINF:-1 group-title="Sneh |South India|", AMrita
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86159
-#EXTINF:-1 group-title="Sneh |South India|", ANDHRA_JYOTI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86092
-#EXTINF:-1 group-title="Sneh |South India|", AP_24X7
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86093
-#EXTINF:-1 group-title="Sneh |South India|", Asianet HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86059
-#EXTINF:-1 group-title="Sneh |South India|", Asianet Movies
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86061
-#EXTINF:-1 group-title="Sneh |South India|", Asianet_Middle_east
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86062
-#EXTINF:-1 group-title="Sneh |South India|", Asianet_News
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86063
-#EXTINF:-1 group-title="Sneh |South India|", ATE_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86094
-#EXTINF:-1 group-title="Sneh |South India|", ATV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86090
-#EXTINF:-1 group-title="Sneh |South India|", CALVARY_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86096
-#EXTINF:-1 group-title="Sneh |South India|", CAPTAIN_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86097
-#EXTINF:-1 group-title="Sneh |South India|", CVR_NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86098
-#EXTINF:-1 group-title="Sneh |South India|", Dangal
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86099
-#EXTINF:-1 group-title="Sneh |South India|", Darshana_Tv
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86100
-#EXTINF:-1 group-title="Sneh |South India|", Dheeran_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
-#EXTINF:-1 group-title="Sneh |South India|", HMTV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86102
-#EXTINF:-1 group-title="Sneh |South India|", IMAYAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
-#EXTINF:-1 group-title="Sneh |South India|", I_NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86104
-#EXTINF:-1 group-title="Sneh |South India|", Jaihind
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86158
-#EXTINF:-1 group-title="Sneh |South India|", Jaya_Plus
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
-#EXTINF:-1 group-title="Sneh |South India|", Jeevan
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86157
-#EXTINF:-1 group-title="Sneh |South India|", KAIRALI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86106
-#EXTINF:-1 group-title="Sneh |South India|", KAIRALI_ARABIA
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86107
-#EXTINF:-1 group-title="Sneh |South India|", KAIRALI_NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86108
-#EXTINF:-1 group-title="Sneh |South India|", KALAIGNAR_CHITHIRAM
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
-#EXTINF:-1 group-title="Sneh |South India|", KALAIGNAR_ISAI_ARUVI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
-#EXTINF:-1 group-title="Sneh |South India|", KALAIGNAR_MURASU
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86111
-#EXTINF:-1 group-title="Sneh |South India|", KALAIGNAR_SEITHIGAL
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86112
-#EXTINF:-1 group-title="Sneh |South India|", KALAIGNAR_SIRIPPOLI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
-#EXTINF:-1 group-title="Sneh |South India|", KALAIGNAR_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
-#EXTINF:-1 group-title="Sneh |South India|", KALINGA_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86115
-#EXTINF:-1 group-title="Sneh |South India|", Kerala_Vision
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86117
-#EXTINF:-1 group-title="Sneh |South India|", MADHA_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86118
-#EXTINF:-1 group-title="Sneh |South India|", MAKKAL_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86119
-#EXTINF:-1 group-title="Sneh |South India|", MALAI_MURASU_SEITHIKAL
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86120
-#EXTINF:-1 group-title="Sneh |South India|", MANGALAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86121
-#EXTINF:-1 group-title="Sneh |South India|", Mazhavil Manorama
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86085
-#EXTINF:-1 group-title="Sneh |South India|", Mazhavil_HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86122
-#EXTINF:-1 group-title="Sneh |South India|", MBC_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86123
-#EXTINF:-1 group-title="Sneh |South India|", MEDIA_ONE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86124
-#EXTINF:-1 group-title="Sneh |South India|", MH_ONE_MUSIC
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86125
-#EXTINF:-1 group-title="Sneh |South India|", MH_ONE_NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86126
-#EXTINF:-1 group-title="Sneh |South India|", MK_SIX
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86127
-#EXTINF:-1 group-title="Sneh |South India|", MK_TELEVISION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
-#EXTINF:-1 group-title="Sneh |South India|", MK_TUNES
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86129
-#EXTINF:-1 group-title="Sneh |South India|", MOON_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
-#EXTINF:-1 group-title="Sneh |South India|", ORANGE_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86131
-#EXTINF:-1 group-title="Sneh |South India|", POLIMER
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86133
-#EXTINF:-1 group-title="Sneh |South India|", POWER_VISION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86134
-#EXTINF:-1 group-title="Sneh |South India|", PTC_NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86132
-#EXTINF:-1 group-title="Sneh |South India|", PUBLIC_MOVIES
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86135
-#EXTINF:-1 group-title="Sneh |South India|", PUBLIC_MUSIC
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86136
-#EXTINF:-1 group-title="Sneh |South India|", PUBLIC_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86137
-#EXTINF:-1 group-title="Sneh |South India|", RM_RUJUMARGAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86140
-#EXTINF:-1 group-title="Sneh |South India|", R_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86139
-#EXTINF:-1 group-title="Sneh |South India|", SATHIYAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
-#EXTINF:-1 group-title="Sneh |South India|", SHEMAROO_MARATHIBANA
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86145
-#EXTINF:-1 group-title="Sneh |South India|", SRI_SANKARA
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86146
-#EXTINF:-1 group-title="Sneh |South India|", Studio_One
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86147
-#EXTINF:-1 group-title="Sneh |South India|", SUN Bangla
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86068
-#EXTINF:-1 group-title="Sneh |South India|", Sun Music HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
-#EXTINF:-1 group-title="Sneh |South India|", Sun News
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
-#EXTINF:-1 group-title="Sneh |South India|", Sun tv HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
-#EXTINF:-1 group-title="Sneh |South India|", SUN_LIFE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
-#EXTINF:-1 group-title="Sneh |South India|", Survana_news
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86160
-#EXTINF:-1 group-title="Sneh |South India|", Surya HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86069
-#EXTINF:-1 group-title="Sneh |South India|", TAMILAN_TELEVISION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
-#EXTINF:-1 group-title="Sneh |South India|", TOLLYWOOD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86150
-#EXTINF:-1 group-title="Sneh |South India|", TV5_KANNADA
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86154
-#EXTINF:-1 group-title="Sneh |South India|", TV_5
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86153
-#EXTINF:-1 group-title="Sneh |South India|", T_NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86148
-#EXTINF:-1 group-title="Sneh |South India|", Udaya Comedy
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86071
-#EXTINF:-1 group-title="Sneh |South India|", Udaya HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86070
-#EXTINF:-1 group-title="Sneh |South India|", Udaya_Music
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86072
-#EXTINF:-1 group-title="Sneh |South India|", V6
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86161
-#EXTINF:-1 group-title="Sneh |South India|", WE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86162
-#EXTINF:-1 group-title="Sneh |South India|", WIN_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
-#EXTINF:-1 group-title="Sneh |South India|", YONETV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86164
-#EXTINF:-1 group-title="Sneh |South India|", Zee Cinema HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86075
-#EXTINF:-1 group-title="Sneh |South India|", ZEE KERALAM HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86074
-#EXTINF:-1 group-title="Sneh |South India|", Zee News
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86077
-#EXTINF:-1 group-title="Sneh |South India|", Zee Talkies HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86078
-#EXTINF:-1 group-title="Sneh |South India|", Zee Tamil HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
-#EXTINF:-1 group-title="Sneh |South India|", zee TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86081
-#EXTINF:-1 group-title="Sneh |South India|", ZEE_ACTION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86083
-#EXTINF:-1 group-title="Sneh |South India|", ZEE_ANMOL_CINEMA
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86084
-#EXTINF:-1 group-title="Sneh |South India|", ZEE_BANGLA_CINE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86082
 
