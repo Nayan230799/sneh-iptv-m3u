@@ -135,7 +135,7 @@
 
 
 <h2>🤹‍♂️ Join Our Discord Server :</h2>
-- Join Now : https://bit.ly/discord-techiesneh  <br>
+- Join Now :  https://snehtv.tk/sneh-discord  <br>
 
 <h2> 📚 IPTV Player Apps Collections : </h2>
 
