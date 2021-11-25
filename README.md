@@ -1,5 +1,5 @@
 <p align="center"><img src="images/snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v4.0 ✯ </h1>
+<h1 align="center"> ✯ Sneh IPTV v4.1 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
@@ -8,9 +8,9 @@
 <p align="center">🔕 BIG NOTICE :  🔕 <BR> I'M OFFLINE ONLY FOR THIS MONTH NEXT UPDATE FROM NEXT MONTH . <BR> BE PATIENCE 🥰. NEW SURPRISE 🤹‍♂️ IN DECEMBER .</p><br>
 
 <h2>🤹‍♂️ Join Our Discord Server :</h2>
-- Join Now : https://bit.ly/discord-techiesneh  <br>
+- Join Now : https://snehtv.tk/sneh-discord  <br>
 
-<h2> 🍃 Updates v4.0 : </h2>
+<h2> 🍃 Updates v4.1 : </h2>
  
 <h4>
 
@@ -34,10 +34,10 @@
 
 <p align="left"><img src="https://i.ibb.co/5BsHSxF/20210806-125945.png" width="100" height="100"></p>
 
-### TechieSneh IPTV+ v4.0 [aLL LInKs UpDaTed]
+### TechieSneh IPTV+ v4.1 [aLL LInKs UpDaTed]
 • JioTv, Zee5, SunNxt, MX Play & Sony Channels Added<br>
 • Worlds Channels Added <br>
-• All In One IPTV : https://bit.ly/snehiptv <img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v4.0  <br>
+• All In One IPTV : https://snehtv.tk/snehiptv.m3u8 [Add In Timimate]<img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v4.1  <br>
 • Right click on m3u playlists to copy and play in Tivimate App<br>
 • Click On Channels Which You Want to Play<br>
 • And Just Enjoy
@@ -48,8 +48,8 @@
 ### Indian Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-tatasky-plus.m3u"><img src="images/new.gif" width="25" height="25"> Sneh India </a>  <br>
-• 2nd Link : <img src="images/new.gif" width="25" height="25"> https://bit.ly/snehiptvweekly <br> 
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-airteltv.m3u"><img src="images/new.gif" width="25" height="25">  Sneh AirtelTV Updated </a>  <br><br> 
+• 2nd Link : <img src="images/new.gif" width="25" height="25"> https://snehtv.tk/snehiptvweekly.m3u8 [Add In Timimate]<br> 
+• 3rd Link : <img src="images/new.gif" width="25" height="25">  https://snehtv.tk/snehjiotv.m3u8 [Add In Timimate]<br><br> 
 
 
 <p align="left"><img src="images/nick.gif" width="150" height="50"></p>
