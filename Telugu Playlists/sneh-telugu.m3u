@@ -1,18 +1,18 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sneh ZEE5 News",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
-https://sneh-z5api.herokuapp.com/?c0-9-258
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-258
 #EXTINF:-1 group-title="Sneh ZEE5 News",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-410/channel_web/1170x658_739766421.png",CVR News Telugu
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
-https://sneh-z5api.herokuapp.com/?c0-9-zeetelugu
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetelugu
 #EXTINF:-1 group-title="Sneh ZEE5 News",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
-https://sneh-z5api.herokuapp.com/?c0-9-258
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-258
 #EXTINF:-1 group-title="Sneh ZEE5 Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
-https://sneh-z5api.herokuapp.com/?c0-9-zeetelugu
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetelugu
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
-https://sneh-z5api.herokuapp.com/?c0-9-zeecinemalu
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemalu
 #EXTINF:-1 group-title="Sneh ZEE5 Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/1170x658withlogo_719952414.png",ABN Andhra Jyothy
-https://sneh-z5api.herokuapp.com/?c0-9-355
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-355
 
 #EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sneh SunNXT",Sun TV HD
 http://139.59.55.243/sunnxt/live.php?c=14020&e=.m3u8
