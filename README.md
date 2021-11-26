@@ -123,7 +123,7 @@
 
 ### World Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv.m3u">All World Playlists </a>  <br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv.m3u">All World Playlists [55890+ Online Channels] </a>  <br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-usa-tv.m3u">USA Channels Playlists </a>  <br>
 • 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-worldtv-eng.m3u">Eng World Channels Playlists </a>  <br>
 
