@@ -67,11 +67,9 @@ https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Pogo_Tamil&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="817" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Sneh Jio Tamil", Cartoon Network Tamil
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Cartoon_Network_Tamil&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="569" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Sneh Jio Tamil", D Tamil
-
-
-
-
-
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Kids_Tamil&q=800&e=.m3u8
+#EXTINF: -1 tvg-id="00" tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="Sneh Kids Eng", Animax ENG
+https://snehtv.tk/kidseng/animax.m3u8
 
 
 
